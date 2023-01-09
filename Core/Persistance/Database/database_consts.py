@@ -1,0 +1,1 @@
+STORE_DATABASE_NAME = "store.db"
